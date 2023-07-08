@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "524256993491",
+    "firebase_url": "https://musiccele-2ac77-default-rtdb.firebaseio.com",
+    "project_id": "musiccele-2ac77",
+    "storage_bucket": "musiccele-2ac77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524256993491:android:14d0b67f76dd642e3ab426",
+        "android_client_info": {
+          "package_name": "com.olutomglobaltech.musiccele"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524256993491-g6v0mck7jv5o8mc724hkldc47qp2io20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc1NRFCYPTVGir_aLrJbozZBDyq-docRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524256993491-g6v0mck7jv5o8mc724hkldc47qp2io20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524256993491:android:7291bac5c089225f3ab426",
+        "android_client_info": {
+          "package_name": "com.olutomglobaltech.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524256993491-g6v0mck7jv5o8mc724hkldc47qp2io20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc1NRFCYPTVGir_aLrJbozZBDyq-docRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524256993491-g6v0mck7jv5o8mc724hkldc47qp2io20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
